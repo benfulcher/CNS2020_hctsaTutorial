@@ -1,4 +1,4 @@
-# hctsa Tutorial (CNS 2020)
+# _hctsa_ Tutorial (CNS 2020)
 
 This site will hold details and resources for the 3-hour tutorial on _hctsa_ for the online Computational Neuroscience Society (CNS) Conference, 2020.
 
