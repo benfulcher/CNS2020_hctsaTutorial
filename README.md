@@ -2,6 +2,8 @@
 
 This site will hold details and resources for the 3-hour tutorial on _hctsa_ for the online Computational Neuroscience Society (CNS) Conference, 2020.
 
+PDF of the tutorial main slides are [here](https://doi.org/10.6084/m9.figshare.12671900.v1).
+
 Information about the tutorial is [here](https://www.cnsorg.org/cns-2020-tutorials#T7).
 
 ### Description
